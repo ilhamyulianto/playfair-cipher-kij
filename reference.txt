@@ -1,0 +1,11 @@
+application of cryptographic techniques with playfair ciphers using the python language.
+
+author : ilham yulianto.
+"tugas kriptrografi klasik - mata kuliah informatika - telkom surabaya"
+NIM : 1203210058
+
+reference : 
+https://www.geeksforgeeks.org/playfair-cipher-with-examples/
+https://intellipaat.com/blog/playfair-cipher/
+https://journal.stekom.ac.id/index.php/elkom/article/download/937/636
+http://jip.polinema.ac.id/ojs3/index.php/jip/article/view/394
